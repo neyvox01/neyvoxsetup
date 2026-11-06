@@ -1,49 +1,157 @@
 <!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" href="style.css" />
-    <title>Calculator - Neyvox</title>
-  </head>
-  <body>
-    <div class="container">
-      <div class="calculator">
-        <input type="text" id="inputBox" placeholder="0" />
-        <div>
-          <button class="button operator">AC</button>
-          <button class="button operator">DEL</button>
-          <button class="button operator">%</button>
-          <button class="button operator">/</button>
-        </div>
-        <div>
-          <button class="button">7</button>
-          <button class="button">8</button>
-          <button class="button">9</button>
-          <button class="button operator">*</button>
-        </div>
-        <div>
-          <button class="button">4</button>
-          <button class="button">5</button>
-          <button class="button">6</button>
-          <button class="button operator">-</button>
-        </div>
-        <div>
-          <button class="button">1</button>
-          <button class="button">2</button>
-          <button class="button">3</button>
-          <button class="button operator">+</button>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="NeyvoxSetup.ma - PC Gamer, composants, écrans et accessoires gaming au Maroc">
+    <title>Accueil | NeyvoxSetup.ma</title>
+    <link rel="icon" href="image/logo/neyvox1.png">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
+</head>
+<body>
+
+<header>
+    <!-- Logo + recherche -->
+    <div class="top-bar">
+        <a href="index.html" class="logo-container">
+            <img src="image/logo/neyvox1.png" alt="NeyvoxSetup" class="logo">
+            <span>NeyvoxSetup<span class="domain">.ma</span></span>
+        </a>
+
+        <div class="search-box">
+            <span class="search-icon">⌕</span>
+            <input type="text" placeholder="Rechercher un PC, une RTX 5060, un écran...">
+            <span class="slash">/</span>
         </div>
 
-        <div>
-          <button class="button">00</button>
-          <button class="button">0</button>
-          <button class="button">.</button>
-          <button class="button equalBtn">=</button>
+        <div class="nav-icons">
+            <a href="https://github.com/neyvox01" target="_blank" rel="noopener">
+                <img src="image/logo/github.png" alt="GitHub" title="GitHub">
+            </a>
+            <a href="mailto:neyvox58@gmail.com">
+                <img src="image/logo/email.png" alt="Email" title="Email">
+            </a>
         </div>
-      </div>
     </div>
-    <script src="script.js"></script>
-  </body>
+
+    <!-- Menu -->
+    <nav class="navbar">
+        <a href="index.html" class="nav-link active current">⚙ PC Configurator</a>
+        <a href="pc-gamer.html" class="nav-link">PC Gamer</a>
+        <a href="composants.html" class="nav-link">Composants</a>
+        <a href="ecrans.html" class="nav-link">Écrans PC</a>
+        <a href="pc-portable.html" class="nav-link">PC Portable</a>
+        <a href="accessoires.html" class="nav-link">Accessoires</a>
+    </nav>
+</header>
+
+<main class="main">
+    <section class="hero">
+        <h1>Votre setup gaming, <span>au meilleur prix</span></h1>
+        <p>PC Gamer, composants, écrans et accessoires, livrés partout au Maroc.</p>
+        <a href="pc-gamer.html" class="hero-btn">Voir les PC Gamer</a>
+    </section>
+
+    <section class="shop-section">
+        <h2>Nos <span>catégories</span></h2>
+        <p class="section-desc">Trouvez tout ce qu'il vous faut pour votre setup</p>
+
+        <div class="products-grid">
+        <article class="product-card category">
+            <img src="image/pc-gamer/pc-5000dh.webp" alt="PC Gamer" loading="lazy">
+            <h3>PC Gamer</h3>
+            <p>Configurations prêtes à jouer</p>
+            <a href="pc-gamer.html">Voir les PC Gamer</a>
+        </article>
+        <article class="product-card category">
+            <img src="image/composants/cartes-graphiques/rtx-5070.jpg" alt="Composants" loading="lazy">
+            <h3>Composants</h3>
+            <p>GPU, CPU, RAM, SSD...</p>
+            <a href="composants.html">Voir les composants</a>
+        </article>
+        <article class="product-card category">
+            <img src="image/ecrans/27-pouces/msi-mag-276cxf.webp" alt="Écrans" loading="lazy">
+            <h3>Écrans PC</h3>
+            <p>Du 24 au 32 pouces</p>
+            <a href="ecrans.html">Voir les écrans</a>
+        </article>
+        <article class="product-card category">
+            <img src="image/pc-portable/gamer/msi-cyborg-15.webp" alt="PC Portable" loading="lazy">
+            <h3>PC Portable</h3>
+            <p>Gaming, étudiant, pro</p>
+            <a href="pc-portable.html">Voir les PC portables</a>
+        </article>
+        <article class="product-card category">
+            <img src="image/accessoires/casques/logitech-g733-lightspeed.webp" alt="Accessoires" loading="lazy">
+            <h3>Accessoires</h3>
+            <p>Casques, claviers, souris</p>
+            <a href="accessoires.html">Voir les accessoires</a>
+        </article>
+        </div>
+    </section>
+
+</main>
+
+<footer class="footer">
+    <div class="footer-brand">
+        <div class="footer-logo">
+            <img src="image/logo/neyvox1.png" alt="NeyvoxSetup">
+            <h2>NeyvoxSetup<span>.ma</span></h2>
+        </div>
+        <p>
+            Votre destination pour les PC gamer et les composants informatiques.
+            Cartes graphiques, processeurs, setups gaming et tout ce qu'il
+            faut pour votre PC.
+        </p>
+
+        <div class="social-links">
+            <a href="https://github.com/neyvox01" target="_blank" rel="noopener" aria-label="GitHub">
+                <i class="fa-brands fa-github"></i>
+            </a>
+            <a href="mailto:neyvox58@gmail.com" aria-label="Email">
+                <i class="fa-regular fa-envelope"></i>
+            </a>
+        </div>
+    </div>
+
+    <div class="footer-column">
+        <h3>BOUTIQUE</h3>
+        <a href="pc-gamer.html">PC Gamer</a>
+        <a href="pc-portable.html">PC Portable</a>
+        <a href="ecrans.html">Écrans PC</a>
+        <a href="accessoires.html">Accessoires</a>
+    </div>
+
+    <div class="footer-column">
+        <h3>COMPOSANTS</h3>
+        <a href="composants.html#cartes-graphiques">Cartes graphiques</a>
+        <a href="composants.html#processeurs-amd">Processeurs</a>
+        <a href="composants.html#memoire-ram-ddr4">Mémoire RAM</a>
+        <a href="composants.html#ssd-nvme">Stockage SSD</a>
+        <a href="composants.html#alimentations">Alimentations</a>
+        <a href="composants.html#boitiers-pc">Boîtiers PC</a>
+        <a href="composants.html#pate-thermique">Refroidissement</a>
+    </div>
+
+    <div class="footer-column footer-contact">
+        <h3>NOUS CONTACTER</h3>
+        <p><i class="fa-solid fa-location-dot"></i> Agadir, Maroc</p>
+        <p>
+            <i class="fa-solid fa-envelope"></i>
+            <a href="mailto:neyvox58@gmail.com">neyvox58@gmail.com</a>
+        </p>
+        <p>
+            <i class="fa-brands fa-github"></i>
+            <a href="https://github.com/neyvox01" target="_blank" rel="noopener">Profil GitHub</a>
+        </p>
+    </div>
+
+    <div class="footer-bottom">
+        <p>© 2026 NeyvoxSetup.ma — Tous droits réservés.</p>
+        <p>Conçu par <span>NeyVox</span></p>
+    </div>
+</footer>
+
+</body>
 </html>

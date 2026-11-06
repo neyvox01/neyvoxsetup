@@ -1,0 +1,90 @@
+﻿Produit;Marque;Prix (DH);Description
+GeForce RTX 3050;NVIDIA;2200;Carte graphique d'entrée de gamme, idéale pour jouer en Full HD aux jeux légers.
+GeForce RTX 3060;NVIDIA;2900;Carte graphique milieu de gamme pour jouer en Full HD avec de bons réglages.
+GeForce RTX 4060 Ti;NVIDIA;4700;GeForce RTX 4060 Ti avec DLSS 3 pour jouer en Full HD et 1440p.
+GeForce RTX 4070;NVIDIA;7200;RTX 4070 Super, 12 Go GDDR6X, très à l'aise en 1440p.
+GeForce RTX 4080;NVIDIA;14000;RTX 4080, 16 Go GDDR6X, pour le 4K et le 1440p très haute fréquence.
+GeForce RTX 4090;NVIDIA;28000;RTX 4090, 24 Go GDDR6X, la puissance maximale pour le 4K et la création.
+GeForce RTX 5060;NVIDIA;4300;RTX 5060, 8 Go GDDR7, architecture Blackwell et DLSS 4.
+GeForce RTX 5070;NVIDIA;8600;RTX 5070, 12 Go GDDR7, architecture Blackwell et DLSS 4 pour le 1440p.
+GeForce RTX 5080;NVIDIA;18500;RTX 5080, 16 Go GDDR7, performances très élevées en 4K.
+GeForce RTX 5090;NVIDIA;32000;RTX 5090, 32 Go GDDR7, la carte la plus puissante de la gamme GeForce.
+AMD Ryzen 5 3400G;AMD;1100;4 cœurs / 8 threads avec graphique Vega 11 intégré, socket AM4.
+AMD Ryzen 5 5500 (Tray);AMD;950;6 cœurs / 12 threads, de 3,6 à 4,2 GHz, socket AM4. Sans ventirad.
+AMD Ryzen 5 7600X (Tray);AMD;2300;6 cœurs / 12 threads, jusqu'à 5,3 GHz, socket AM5. Sans ventirad.
+AMD Ryzen 5 7600X;AMD;2450;6 cœurs / 12 threads, jusqu'à 5,3 GHz, socket AM5. Sans ventirad.
+AMD Ryzen 7 5700X (Tray);AMD;1750;8 cœurs / 16 threads, jusqu'à 4,6 GHz, socket AM4. Sans ventirad.
+AMD Ryzen 7 7700X (Tray);AMD;3100;8 cœurs / 16 threads, jusqu'à 5,4 GHz, socket AM5. Sans ventirad.
+AMD Ryzen 7 7800X3D (Tray);AMD;4300;8 cœurs / 16 threads avec 3D V-Cache, le processeur gaming de référence, socket AM5.
+Intel Core i5-10400F (Tray);Intel;900;6 cœurs / 12 threads, jusqu'à 4,3 GHz, socket LGA1200.
+Intel Core i5-13400F;Intel;1800;10 cœurs (6P + 4E) / 16 threads, jusqu'à 4,6 GHz, socket LGA1700.
+Intel Core i5-13600KF (Tray);Intel;2700;14 cœurs (6P + 8E) / 20 threads, jusqu'à 5,1 GHz, déverrouillé.
+Intel Core i5-14400F (Tray);Intel;1900;10 cœurs / 16 threads, jusqu'à 4,7 GHz, socket LGA1700.
+Intel Core i5-14600KF (Tray);Intel;2950;14 cœurs / 20 threads, jusqu'à 5,3 GHz, déverrouillé.
+Intel Core i9-14900KF (Tray);Intel;5200;24 cœurs (8P + 16E) / 32 threads, jusqu'à 5,8 GHz, déverrouillé.
+Corsair Vengeance RGB Pro 16 Go (2x8) 3200 MHz;Corsair;750;Kit 2x8 Go DDR4 3200 MHz CL16 avec éclairage RGB.
+Corsair Vengeance RGB Pro 32 Go (2x16) 3200 MHz;Corsair;1400;Kit 2x16 Go DDR4 3200 MHz CL16 avec éclairage RGB.
+Corsair Vengeance LPX 16 Go (2x8) 3200 MHz;Corsair;650;Kit 2x8 Go DDR4 3200 MHz CL16, format Low Profile compact.
+XPG Gammix DDR4;XPG;750;Barrette de RAM DDR4 gaming avec dissipateur, de la gamme XPG Gammix.
+Lexar Ares RGB 32 Go (2x16) 6400 MHz CL32;Lexar;2400;Kit 2x16 Go DDR5 6400 MHz CL32 avec éclairage RGB.
+XPG Lancer Blade 8 Go 5600 MHz RGB blanc;XPG;600;Barrette de 8 Go DDR5 5600 MHz avec dissipateur blanc et éclairage RGB.
+XPG Lancer Blade DDR5 noir;XPG;1100;Barrette de RAM DDR5 XPG Lancer Blade avec dissipateur noir.
+Lexar NM620 512 Go M.2 NVMe;Lexar;450;SSD M.2 NVMe PCIe de 512 Go pour un démarrage et des chargements rapides.
+Hikvision E1000 1 To M.2 NVMe;Hikvision;750;SSD M.2 NVMe PCIe de 1 To, un bon rapport capacité / prix.
+WD Green SN350 1 To NVMe;Western Digital;800;SSD NVMe de 1 To de Western Digital, fiable pour le quotidien et le gaming.
+Lexar NM620 2 To M.2 NVMe;Lexar;1300;SSD M.2 NVMe PCIe de 2 To, beaucoup d'espace pour vos jeux.
+T-Force Delta RGB 1 To;T-Force;850;SSD SATA de 1 To avec éclairage RGB, 2,5 pouces.
+Nova 550W 80+ Bronze;Nova;400;Alimentation 550W certifiée 80+ Bronze pour les configurations de base.
+DeepCool PL650D 650W Bronze;DeepCool;550;Alimentation 650W certifiée 80+ Bronze, version blanche.
+Corsair RM750e 750W Gold;Corsair;1150;Alimentation 750W certifiée 80+ Gold, entièrement modulaire.
+Antec Atom G850 850W Gold;Antec;1150;Alimentation 850W certifiée 80+ Gold pour les cartes graphiques puissantes.
+Gigabyte UD1000GM PG5 1000W Gold;Gigabyte;1650;Alimentation 1000W certifiée 80+ Gold, modulaire, compatible PCIe 5.0.
+Nova Jett noir;Nova;350;Boîtier PC gamer noir, bon flux d'air et prix serré.
+Nova Operator P28511 noir;Nova;450;Boîtier PC gamer noir avec façade aérée.
+GameKM Gaming blanc;GameKM;500;Boîtier blanc à façade vitrée, livré avec ventilateurs RGB.
+Connect Lumina Ultra;Connect;550;Boîtier PC gamer avec panneau vitré et éclairage RGB.
+Corsair Frame 4500X RS ARGB blanc;Corsair;1350;Boîtier blanc avec ventilateurs ARGB, pensé pour le refroidissement.
+Fehonda TG-9;Fehonda;80;Pâte thermique en seringue pour processeur et carte graphique.
+Arctic MX-6;Arctic;110;Pâte thermique haute performance, facile à appliquer.
+Polartherm X-8 (2 g);Polartherm;90;Pâte thermique X-8 en seringue de 2 g.
+Thermal Grizzly Aeronaut (1 g);Thermal Grizzly;150;Pâte thermique haut de gamme, seringue de 1 g.
+"MSI G242L E14 24"" IPS 144Hz";MSI;1250;Écran 24 pouces Full HD, dalle IPS, 144 Hz, 1 ms.
+"Hybrok Flame HG24IFL 24"" IPS 180Hz";Hybrok;1250;Écran 24 pouces Full HD, dalle IPS, 180 Hz, 1 ms.
+"MSI Optix G2422C 24"" incurvé 180Hz";MSI;1700;Écran incurvé 24 pouces Full HD, 180 Hz.
+"ASUS TUF Gaming VG249Q3A 23.8"" 180Hz";ASUS;1800;Écran TUF Gaming 23,8 pouces, dalle IPS Full HD, 180 Hz.
+"ASUS TUF Gaming VG249Q5A 23.8"" Fast IPS 200Hz";ASUS;2100;Écran TUF Gaming 23,8 pouces Fast IPS Full HD, 200 Hz, 0,3 ms.
+"MSI Pro MP251 24.5"" IPS 100Hz";MSI;950;Écran 24,5 pouces, dalle IPS, 100 Hz, idéal bureautique et jeu.
+"MSI Pro MP251L E2 25"" IPS 120Hz";MSI;1000;Écran 25 pouces, dalle IPS, 120 Hz.
+"Connect 2510C 24.5"" 144Hz";Connect;1150;Écran 24,5 pouces, 144 Hz, pour jouer en fluidité.
+"MSI MAG 255F X24 24.5"" Fast IPS 240Hz";MSI;2200;Écran 24,5 pouces Fast IPS Full HD, 240 Hz, 0,5 ms, pour l'esport.
+"MSI Pro MP273A 27"" IPS";MSI;1300;Écran 27 pouces à dalle IPS pour le travail et le jeu.
+"AOC 27B30H3 27"" IPS 120Hz";AOC;1350;Écran 27 pouces IPS, 120 Hz.
+"ASRock Phantom Gaming PG27QFT1B 27"" IPS 180Hz 2K";ASRock;2600;Écran 27 pouces IPS 2K (QHD), 180 Hz.
+"MSI MAG 276CXF 27"" 280Hz";MSI;2500;Écran 27 pouces Full HD, 280 Hz, 0,5 ms.
+"Connect 32C1G 32"" 165Hz";Connect;2000;Écran gaming 32 pouces, 165 Hz.
+"ASRock Phantom PG32QF2B 32"" VA 165Hz 2K";ASRock;2700;Écran 32 pouces dalle VA, 2K (QHD), 165 Hz.
+"MSI MAG 325QF E18V 32"" Fast VA 180Hz 2K";MSI;3200;Écran 32 pouces Fast VA, 2K (QHD), 180 Hz, 0,5 ms.
+MSI Cyborg 15;MSI;9500;PC portable gamer 15,6 pouces avec processeur Intel Core et carte NVIDIA GeForce RTX.
+MSI Gamer i7 - 16 Go - 1 To SSD;MSI;14000;Core i7-13620H, 16 Go DDR5, SSD NVMe de 1 To, carte NVIDIA RTX (selon la fiche).
+HP Gaming;HP;6500;PC portable gaming 15 pouces avec clavier rétroéclairé vert.
+Acer Swift X SFX14-41G;Acer;9500;Ultraportable 14 pouces avec carte graphique dédiée, pour étudiants et créateurs.
+Dell Latitude 5400;Dell;3500;PC portable pro 14 pouces, solide et fiable pour le travail.
+HP EliteBook 830 G8;HP;4500;PC portable professionnel 13,3 pouces, léger et sécurisé.
+Logitech G335 blanc;Logitech;700;Casque gaming filaire léger, coloris blanc, avec micro.
+Logitech G321 Lightspeed noir;Logitech;1000;Casque gaming sans fil Lightspeed, coloris noir.
+Logitech G733 Lightspeed noir;Logitech;1600;Casque gaming sans fil Lightspeed avec éclairage RGB.
+Attack Shark R85 HE Rapid Trigger blanc;Attack Shark;800;Clavier 75% à switchs magnétiques avec Rapid Trigger, coloris blanc.
+Attack Shark X68 HE noir;Attack Shark;750;Clavier compact 65% à switchs magnétiques, coloris noir.
+Redragon K673 PRO 75% sans fil RGB;Redragon;600;Clavier mécanique 75% sans fil RGB, switchs rouges.
+Attack Shark X11 noire;Attack Shark;250;Souris gaming légère, coloris noir.
+Logitech G102 Lightsync RGB noire;Logitech;250;Souris gaming Lightsync RGB, 8000 DPI, 6 boutons.
+Razer DeathAdder Essential blanche;Razer;300;Souris gaming ergonomique, coloris blanc.
+MSI Vigor GK30 blanc;MSI;450;Clavier gaming MSI Vigor GK30, coloris blanc.
+XTRMLAB XGC-120 Combo 4 en 1;XTRMLAB;300;Pack gaming 4 en 1 : clavier, souris, casque et tapis.
+XTRIKE MP-602;XTRIKE;80;Tapis de souris gaming à surface lisse.
+Logitech G240 Cloth;Logitech;250;Tapis de souris en tissu, surface optimisée pour la précision.
+Golden Lions Series;Golden Lions;120;Tapis de souris gaming de la série Golden Lions.
+PC Gamer Starter;NeyvoxSetup;3000;
+PC Gamer Performance;NeyvoxSetup;5000;
+PC Gamer Advanced;NeyvoxSetup;8000;
+PC Gamer Ultimate;NeyvoxSetup;10000;
